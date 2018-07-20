@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-18T07:37:05.400Z</updated>
+  <updated>2018-07-20T10:27:55.723Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,9 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Verbs</title>
+    <link href="http://yoursite.com/2018/07/20/Verbs/"/>
+    <id>http://yoursite.com/2018/07/20/Verbs/</id>
+    <published>2018-07-20T10:26:16.000Z</published>
+    <updated>2018-07-20T10:27:55.723Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Karen Elizabeth Gordon, author of ‘The Transitive Vampire’, dubbed the verb the ‘heart-throd’ of the sentence. Verbs should do most of the work in a sentence. They describe the state of being of the subject of a sentence, express an action, or describe an occurrence of the subject of a sentence.&lt;br&gt;Verbs are divided into two classes: finite and non-finite.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+    
+      <category term="Grammar" scheme="http://yoursite.com/categories/English/Grammar/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Sentences</title>
-    <link href="http://yoursite.com/2018/07/18/sentence/"/>
-    <id>http://yoursite.com/2018/07/18/sentence/</id>
+    <link href="http://yoursite.com/2018/07/18/Sentence/"/>
+    <id>http://yoursite.com/2018/07/18/Sentence/</id>
     <published>2018-07-18T06:32:52.000Z</published>
     <updated>2018-07-18T07:37:05.400Z</updated>
     
