@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-20T10:57:20.336Z</updated>
+  <updated>2018-07-20T16:11:31.671Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Letters</title>
+    <link href="http://yoursite.com/2018/07/20/Letters/"/>
+    <id>http://yoursite.com/2018/07/20/Letters/</id>
+    <published>2018-07-20T14:18:03.000Z</published>
+    <updated>2018-07-20T16:11:31.671Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/07/20/Letters/alphabet.jpg&quot;&gt;
+    
+    </summary>
+    
+      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Phonetic symbols</title>
+    <link href="http://yoursite.com/2018/07/20/Phonetic_symbols/"/>
+    <id>http://yoursite.com/2018/07/20/Phonetic_symbols/</id>
+    <published>2018-07-20T14:18:03.000Z</published>
+    <updated>2018-07-20T16:18:35.347Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/07/20/Phonetic_symbols/symbols.jpg&quot; title=&quot;The forty-eight international phonetic symbols&quot;&gt;
+    
+    </summary>
+    
+      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Verbs</title>
@@ -38,8 +74,8 @@
   
   <entry>
     <title>Sentences</title>
-    <link href="http://yoursite.com/2018/07/18/Sentence/"/>
-    <id>http://yoursite.com/2018/07/18/Sentence/</id>
+    <link href="http://yoursite.com/2018/07/18/Sentences/"/>
+    <id>http://yoursite.com/2018/07/18/Sentences/</id>
     <published>2018-07-18T06:32:52.000Z</published>
     <updated>2018-07-20T10:43:04.955Z</updated>
     
