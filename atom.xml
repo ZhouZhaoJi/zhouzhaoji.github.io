@@ -36,4 +36,24 @@
     
   </entry>
   
+  <entry>
+    <title>Sentences</title>
+    <link href="http://yoursite.com/2018/07/18/Sentence/"/>
+    <id>http://yoursite.com/2018/07/18/Sentence/</id>
+    <published>2018-07-18T06:32:52.000Z</published>
+    <updated>2018-07-20T10:43:04.955Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A sentence is the expression of a complete thought. It is made up of a clause. A clause is a group of words that contains a subject and a predicate. Clauses can be put into two kinds: independent/main clauses and  dependent/subordinate clauses.&lt;br&gt;An independent/main clause consists of a subject and a predicate and can stand alone as a sentence.&lt;br&gt;A dependent/subordinate clause starts with a subordinate word.  It can not stand alone as a sentence though it consists of both a subject and a predicate.&lt;br&gt;Depending upon the number and type of clauses it contains, a sentence may be one of four kinds.
+    
+    </summary>
+    
+      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+    
+      <category term="Grammar" scheme="http://yoursite.com/categories/English/Grammar/"/>
+    
+    
+  </entry>
+  
 </feed>
