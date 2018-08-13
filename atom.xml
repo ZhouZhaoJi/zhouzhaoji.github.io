@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-21T16:08:11.277Z</updated>
+  <updated>2018-08-13T08:57:20.355Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,62 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>About</title>
-    <link href="http://yoursite.com/2018/07/22/About/"/>
-    <id>http://yoursite.com/2018/07/22/About/</id>
-    <published>2018-07-21T16:00:00.000Z</published>
-    <updated>2018-07-21T16:08:11.277Z</updated>
+    <title>What Is Mathematics &lt;br/&gt;什么是数学</title>
+    <link href="http://yoursite.com/2018/08/13/WIM/"/>
+    <id>http://yoursite.com/2018/08/13/WIM/</id>
+    <published>2018-08-13T07:19:59.000Z</published>
+    <updated>2018-08-13T08:57:20.355Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Preposition&quot;&gt;&lt;a href=&quot;#Preposition&quot; class=&quot;headerlink&quot; title=&quot;Preposition&quot;&gt;&lt;/a&gt;Preposition&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;You use about after some adjectives to indicate the person or thing that a feeling or state of mind relates to.
+      &lt;h1 id=&quot;Chapter-1-The-Natural-Numbers-第一章：-自然数&quot;&gt;&lt;a href=&quot;#Chapter-1-The-Natural-Numbers-第一章：-自然数&quot; class=&quot;headerlink&quot; title=&quot;Chapter 1: The Natural Numbers 第一章： 自然数&quot;&gt;&lt;/a&gt;Chapter 1: The Natural Numbers &lt;br&gt;第一章： 自然数&lt;/h1&gt;&lt;h2 id=&quot;Introduction-引言&quot;&gt;&lt;a href=&quot;#Introduction-引言&quot; class=&quot;headerlink&quot; title=&quot;Introduction 引言&quot;&gt;&lt;/a&gt;Introduction &lt;br&gt;引言&lt;/h2&gt;
     
     </summary>
     
-      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+      <category term="Mathematics" scheme="http://yoursite.com/categories/Mathematics/"/>
     
-      <category term="Grammar" scheme="http://yoursite.com/categories/English/Grammar/"/>
+      <category term="Book" scheme="http://yoursite.com/categories/Mathematics/Book/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Verbs</title>
-    <link href="http://yoursite.com/2018/07/20/Verbs/"/>
-    <id>http://yoursite.com/2018/07/20/Verbs/</id>
-    <published>2018-07-20T10:26:16.000Z</published>
-    <updated>2018-07-20T10:57:20.336Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Karen Elizabeth Gordon, author of ‘The Transitive Vampire’, dubbed the verb the ‘heart-throd’ of the sentence. Verbs should do most of the work in a sentence. They describe the state of being of the subject of a sentence, express an action, or describe an occurrence of the subject of a sentence.&lt;br&gt;Verbs are divided into two classes: finite and non-finite.
-    
-    </summary>
-    
-      <category term="English" scheme="http://yoursite.com/categories/English/"/>
-    
-      <category term="Grammar" scheme="http://yoursite.com/categories/English/Grammar/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Sentences</title>
-    <link href="http://yoursite.com/2018/07/18/Sentences/"/>
-    <id>http://yoursite.com/2018/07/18/Sentences/</id>
-    <published>2018-07-18T06:32:52.000Z</published>
-    <updated>2018-07-21T16:01:31.874Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;A sentence is the expression of a complete thought. It is made up of a clause. A clause is a group of words that contains a subject and a predicate. Clauses can be put into two kinds: independent/main clauses and  dependent/subordinate clauses.&lt;br&gt;An independent/main clause consists of a subject and a predicate and can stand alone as a sentence.&lt;br&gt;A dependent/subordinate clause starts with a subordinate word.  It can not stand alone as a sentence though it consists of both a subject and a predicate.&lt;br&gt;Depending upon the number and type of clauses it contains, a sentence may be one of four kinds.
-    
-    </summary>
-    
-      <category term="English" scheme="http://yoursite.com/categories/English/"/>
-    
-      <category term="Grammar" scheme="http://yoursite.com/categories/English/Grammar/"/>
+      <category term="What Is Mathematics" scheme="http://yoursite.com/categories/Mathematics/Book/What-Is-Mathematics/"/>
     
     
   </entry>
