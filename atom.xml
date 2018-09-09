@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-13T09:35:21.128Z</updated>
+  <updated>2018-09-09T13:21:12.478Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>My Principles &lt;br/&gt;我的原则</title>
+    <link href="http://yoursite.com/2018/09/09/MyPrinciples/"/>
+    <id>http://yoursite.com/2018/09/09/MyPrinciples/</id>
+    <published>2018-09-09T13:03:38.000Z</published>
+    <updated>2018-09-09T13:21:12.478Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;&lt;em&gt;To measure is to know. If you can not measure it, you can not improve it.    - Lord
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>What Is Mathematics &lt;br/&gt;什么是数学</title>
     <link href="http://yoursite.com/2018/08/13/WIM/"/>
     <id>http://yoursite.com/2018/08/13/WIM/</id>
     <published>2018-08-13T07:19:59.000Z</published>
-    <updated>2018-08-13T09:35:21.128Z</updated>
+    <updated>2018-09-09T13:21:13.368Z</updated>
     
     <summary type="html">
     
