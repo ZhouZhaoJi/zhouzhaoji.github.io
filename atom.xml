@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-09T13:21:12.478Z</updated>
+  <updated>2018-09-09T14:49:53.079Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/09/09/MyPrinciples/"/>
     <id>http://yoursite.com/2018/09/09/MyPrinciples/</id>
     <published>2018-09-09T13:03:38.000Z</published>
-    <updated>2018-09-09T13:21:12.478Z</updated>
+    <updated>2018-09-09T14:49:53.079Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,10 @@
       
     
     </summary>
+    
+      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+    
+      <category term="Principles" scheme="http://yoursite.com/categories/Life/Principles/"/>
     
     
   </entry>
