@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-09T14:49:53.079Z</updated>
+  <updated>2019-01-24T03:57:23.380Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>进制及其转换</title>
+    <link href="http://yoursite.com/2019/01/24/PositionalNotation/"/>
+    <id>http://yoursite.com/2019/01/24/PositionalNotation/</id>
+    <published>2019-01-24T03:51:04.000Z</published>
+    <updated>2019-01-24T03:57:23.380Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;十进制和进制基本概念&quot;&gt;&lt;a href=&quot;#十进制和进制基本概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>My Principles &lt;br/&gt;我的原则</title>
     <link href="http://yoursite.com/2018/09/09/MyPrinciples/"/>
     <id>http://yoursite.com/2018/09/09/MyPrinciples/</id>
     <published>2018-09-09T13:03:38.000Z</published>
-    <updated>2018-09-09T14:49:53.079Z</updated>
+    <updated>2018-09-09T14:49:54.000Z</updated>
     
     <summary type="html">
     
@@ -39,28 +61,6 @@
       <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
     
       <category term="Principles" scheme="http://yoursite.com/categories/Life/Principles/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Translation:What Is Mathematics &lt;br/&gt;翻译：什么是数学</title>
-    <link href="http://yoursite.com/2018/08/13/WIM/"/>
-    <id>http://yoursite.com/2018/08/13/WIM/</id>
-    <published>2018-08-13T07:19:59.000Z</published>
-    <updated>2018-10-04T02:16:48.342Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Chapter-1-The-Natural-Numbers-第一章：-自然数&quot;&gt;&lt;a href=&quot;#Chapter-1-The-Natural-Numbers-第一章：-自然数&quot; class=&quot;headerlink&quot; title=&quot;Chapter 1: The Natural Numbers 第一章： 自然数&quot;&gt;&lt;/a&gt;Chapter 1: The Natural Numbers &lt;br&gt;第一章： 自然数&lt;/h1&gt;&lt;h2 id=&quot;Introduction-引言&quot;&gt;&lt;a href=&quot;#Introduction-引言&quot; class=&quot;headerlink&quot; title=&quot;Introduction 引言&quot;&gt;&lt;/a&gt;Introduction &lt;br&gt;引言&lt;/h2&gt;
-    
-    </summary>
-    
-      <category term="Mathematics" scheme="http://yoursite.com/categories/Mathematics/"/>
-    
-      <category term="Book" scheme="http://yoursite.com/categories/Mathematics/Book/"/>
-    
-      <category term="What Is Mathematics" scheme="http://yoursite.com/categories/Mathematics/Book/What-Is-Mathematics/"/>
     
     
   </entry>
