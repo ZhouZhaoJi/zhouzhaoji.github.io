@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-24T03:57:23.380Z</updated>
+  <updated>2019-03-12T12:38:55.030Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>数学（1）：正整数、序数、数量、多和少的起源</title>
+    <link href="http://yoursite.com/2019/03/12/Math1/"/>
+    <id>http://yoursite.com/2019/03/12/Math1/</id>
+    <published>2019-03-12T12:37:40.000Z</published>
+    <updated>2019-03-12T12:38:55.030Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;数学并不是凭空出现的，而是人们通过对现实抽象出来的，后来人们在这些抽象的规则上，继续推演成了数学大厦，而这些推演出来的理论，很多时候现实中并没有对应，这也是很多人觉得数学难以理解的原因，只有我们回到过去，回到历史，才会真正理解它。&lt;/p&gt;
+&lt;h1 id=&quot;正整数&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>进制及其转换</title>
     <link href="http://yoursite.com/2019/01/24/PositionalNotation/"/>
     <id>http://yoursite.com/2019/01/24/PositionalNotation/</id>
     <published>2019-01-24T03:51:04.000Z</published>
-    <updated>2019-01-24T03:57:23.380Z</updated>
+    <updated>2019-01-24T03:57:24.000Z</updated>
     
     <summary type="html">
     
@@ -34,33 +57,6 @@
       
     
     </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My Principles &lt;br/&gt;我的原则</title>
-    <link href="http://yoursite.com/2018/09/09/MyPrinciples/"/>
-    <id>http://yoursite.com/2018/09/09/MyPrinciples/</id>
-    <published>2018-09-09T13:03:38.000Z</published>
-    <updated>2018-09-09T14:49:54.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;ol&gt;
-&lt;li&gt;&lt;em&gt;To measure is to know. If you can not measure it, you can not improve it.    - Lord
-        
-      
-    
-    </summary>
-    
-      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
-    
-      <category term="Principles" scheme="http://yoursite.com/categories/Life/Principles/"/>
     
     
   </entry>
