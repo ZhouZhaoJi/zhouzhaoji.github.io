@@ -3,10 +3,25 @@
   
     
     <entry>
-      <title>interval</title>
+      <title>Neighbourhood</title>
+      <link href="/2019/04/10/neighbourhood/"/>
+      <url>/2019/04/10/neighbourhood/</url>
+      <content type="html"><![CDATA[<p>Suppose $a,δ \in R$ and $δ &gt; 0$.<br>$N(a,δ) = \lbrace x \mid a - δ &lt; x &lt; a +δ \rbrace = \lbrace x \mid |x - a| &lt; δ \rbrace $<br>$N(\hat{a},δ) =  \lbrace x \mid 0 &lt; |x - a| &lt; δ \rbrace = N(a,δ) \backslash \lbrace a \rbrace$</p><a id="more"></a>]]></content>
+      
+      <categories>
+          
+          <category> Math </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Interval</title>
       <link href="/2019/04/10/interval/"/>
       <url>/2019/04/10/interval/</url>
-      <content type="html"><![CDATA[<p>假设$a,b\in R$，并且$a&lt;b$。<br>$[ a , b ] = \lbrace x \mid a \le x \le b \rbrace$<br>$( a , b ) = \lbrace x \mid a &lt; x &lt; b \rbrace$<br>$[ a , b ) = \lbrace x \mid a \le x &lt; b \rbrace$<br>$( a , b ] = \lbrace x \mid a &lt; x \le b \rbrace$</p><p>假设$a \in R$。<br>$[ a , +\infty ]= \lbrace x \mid a \le x \rbrace$<br>$( a , +\infty ]= \lbrace x \mid a &lt; x \rbrace$<br>$[ -\infty , a ]= \lbrace x \mid x \le a \rbrace$<br>$[ -\infty , a )= \lbrace x \mid x &lt; a \rbrace$</p>]]></content>
+      <content type="html"><![CDATA[<p>Suppose $a,b\in R$ and $a&lt;b$.<br>$[ a , b ] = \lbrace x \mid a \le x \le b \rbrace$<br>$( a , b ) = \lbrace x \mid a &lt; x &lt; b \rbrace$<br>$[ a , b ) = \lbrace x \mid a \le x &lt; b \rbrace$<br>$( a , b ] = \lbrace x \mid a &lt; x \le b \rbrace$</p><p>Suppose $a \in R$.<br>$[ a , +\infty ]= \lbrace x \mid a \le x \rbrace$<br>$( a , +\infty ]= \lbrace x \mid a &lt; x \rbrace$<br>$[ -\infty , a ]= \lbrace x \mid x \le a \rbrace$<br>$[ -\infty , a )= \lbrace x \mid x &lt; a \rbrace$</p><a id="more"></a>]]></content>
       
       <categories>
           
