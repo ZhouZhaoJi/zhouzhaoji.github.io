@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-10T02:18:46.871Z</updated>
+  <updated>2019-08-28T15:02:49.668Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,34 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Neighbourhood</title>
-    <link href="http://yoursite.com/2019/04/10/neighbourhood/"/>
-    <id>http://yoursite.com/2019/04/10/neighbourhood/</id>
-    <published>2019-04-10T01:27:02.000Z</published>
-    <updated>2019-04-10T02:18:46.871Z</updated>
+    <title>QT开发笔记：国际化</title>
+    <link href="http://yoursite.com/2019/08/28/QT-Internationalization/"/>
+    <id>http://yoursite.com/2019/08/28/QT-Internationalization/</id>
+    <published>2019-08-28T14:53:14.000Z</published>
+    <updated>2019-08-28T15:02:49.668Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Suppose $a,δ \in R$ and $δ &amp;gt; 0$.&lt;br&gt;$N(a,δ) = \lbrace x \mid a - δ &amp;lt; x &amp;lt; a +δ \rbrace = \lbrace x \mid |x - a| &amp;lt; δ \rbrace $&lt;br&gt;$N(\hat{a},δ) =  \lbrace x \mid 0 &amp;lt; |x - a| &amp;lt; δ \rbrace = N(a,δ) \backslash \lbrace a \rbrace$&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;QT提供了一个语言家的程序，可以将程序中用Object::tr()函数包裹的字符串翻译成各种语言。在程序中安装对应的翻译文件，就可以让程序切换到对应的语言，实现程序的国际化。&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="Math" scheme="http://yoursite.com/categories/Math/"/>
+      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
     
     
   </entry>
   
   <entry>
-    <title>Interval</title>
-    <link href="http://yoursite.com/2019/04/10/interval/"/>
-    <id>http://yoursite.com/2019/04/10/interval/</id>
-    <published>2019-04-10T00:47:06.000Z</published>
-    <updated>2019-04-10T02:15:49.572Z</updated>
+    <title>集合论</title>
+    <link href="http://yoursite.com/2019/08/28/Set-Theory/"/>
+    <id>http://yoursite.com/2019/08/28/Set-Theory/</id>
+    <published>2019-08-28T14:49:19.000Z</published>
+    <updated>2019-08-28T14:57:53.542Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Suppose $a,b\in R$ and $a&amp;lt;b$.&lt;br&gt;$[ a , b ] = \lbrace x \mid a \le x \le b \rbrace$&lt;br&gt;$( a , b ) = \lbrace x \mid a &amp;lt; x &amp;lt; b \rbrace$&lt;br&gt;$[ a , b ) = \lbrace x \mid a \le x &amp;lt; b \rbrace$&lt;br&gt;$( a , b ] = \lbrace x \mid a &amp;lt; x \le b \rbrace$&lt;/p&gt;
-&lt;p&gt;Suppose $a \in R$.&lt;br&gt;$[ a , +\infty ]= \lbrace x \mid a \le x \rbrace$&lt;br&gt;$( a , +\infty ]= \lbrace x \mid a &amp;lt; x \rbrace$&lt;br&gt;$[ -\infty , a ]= \lbrace x \mid x \le a \rbrace$&lt;br&gt;$[ -\infty , a )= \lbrace x \mid x &amp;lt; a \rbrace$&lt;/p&gt;
+      &lt;ul&gt;
+&lt;li&gt;$\forall A \forall x(x \in A \veebar x \not\in A)$&lt;/li&gt;
+&lt;li&gt;$\forall A \forall B(A=B \iff \forall x(x \in A \iff x \in B))$&lt;/li&gt;
+&lt;li&gt;$\forall x(x \not\in \emptyset)$&lt;/li&gt;
+&lt;li&gt;$\forall x \exists {y} (y = x)$&lt;/li&gt;
+&lt;li&gt;$\forall A \forall B \exists (A \cup B) (\forall x(x \in (A \cup B) \iff (x \in A \mid x \in B)))$&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
