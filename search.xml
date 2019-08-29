@@ -21,7 +21,7 @@
       <title>集合论</title>
       <link href="/2019/08/28/Set-Theory/"/>
       <url>/2019/08/28/Set-Theory/</url>
-      <content type="html"><![CDATA[<ul><li>$\forall A \forall x(x \in A \veebar x \not\in A)$</li><li>$\forall A \forall B(A=B \iff \forall x(x \in A \iff x \in B))$</li><li>$\forall x(x \not\in \emptyset)$</li><li>$\forall x \exists {y} (y = x)$</li><li>$\forall A \forall B \exists (A \cup B) (\forall x(x \in (A \cup B) \iff (x \in A \mid x \in B)))$</li></ul><a id="more"></a>]]></content>
+      <content type="html"><![CDATA[<ul><li>$\forall A \forall x(x \in A \veebar x \not\in A)$</li><li>$\forall A \forall B(A=B \iff \forall x(x \in A \iff x \in B))$</li><li>$\exists A \forall x  (x \not\in A),A=\emptyset$</li><li>$\forall x \exists A  (x \in A \wedge  |A| = 1),A=\lbrace x\rbrace $</li><li>$\forall A \forall B \exists C (\forall x(x \in C \iff (x \in A \mid x \in B))),C=(A \cup B)$</li><li>$\forall A \forall B(A \subseteq B \iff \forall x(x \in A \implies x \in B))$</li><li>$\forall A \forall B(A \subset B \iff (A \subseteq B \wedge  A \not= B))$</li><li>$\forall A \exists B(\forall x (x \in B \iff (x \in A \wedge P(x)))),B=\lbrace x \in A :P(x)\rbrace $</li></ul><a id="more"></a>]]></content>
       
       <categories>
           
