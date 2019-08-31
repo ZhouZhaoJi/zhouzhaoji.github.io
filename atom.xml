@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-28T15:02:49.668Z</updated>
+  <updated>2019-08-31T11:09:22.011Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://yoursite.com/2019/08/28/QT-Internationalization/"/>
     <id>http://yoursite.com/2019/08/28/QT-Internationalization/</id>
     <published>2019-08-28T14:53:14.000Z</published>
-    <updated>2019-08-28T15:02:49.668Z</updated>
+    <updated>2019-08-31T11:09:22.011Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;QT提供了一个语言家的程序，可以将程序中用Object::tr()函数包裹的字符串翻译成各种语言。在程序中安装对应的翻译文件，就可以让程序切换到对应的语言，实现程序的国际化。&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;QT提供了一个方式，可以将程序中用QObject::tr()函数包裹的英文字符串翻译成其他语言，从而实现程序的国际化。&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
