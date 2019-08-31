@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>QT开发笔记：信号与槽</title>
+      <link href="/2019/08/31/QT-Signals-And-Slots/"/>
+      <url>/2019/08/31/QT-Signals-And-Slots/</url>
+      <content type="html"><![CDATA[<p><strong>QT提供了一种信号与槽的机制实现QObject对象间的消息传递。</strong></p><a id="more"></a><p><strong>如果我们自定义一个类希望它支持信号与槽，我们需要让这个类继承QObject，并且在类体声明的最前面，加入<code>Q_OBJECT</code>。然后我们就可以在这个类中声明该类对象拥有的信号，声明并定义该类对象拥有的槽。</strong></p><p><strong>我们可以用QObject::connect()静态函数链接一个QObject对象的信号和另一个QObject对象的槽。当一个QObject对象emit一个信号的时候，连接到这个信号上的QObject对象的槽将被调用。</strong></p>]]></content>
+      
+      <categories>
+          
+          <category> QT </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>QT开发笔记：国际化</title>
       <link href="/2019/08/28/QT-Internationalization/"/>
       <url>/2019/08/28/QT-Internationalization/</url>

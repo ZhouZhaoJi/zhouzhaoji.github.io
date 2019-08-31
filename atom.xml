@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-31T11:09:22.011Z</updated>
+  <updated>2019-08-31T11:46:09.894Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>QT开发笔记：信号与槽</title>
+    <link href="http://yoursite.com/2019/08/31/QT-Signals-And-Slots/"/>
+    <id>http://yoursite.com/2019/08/31/QT-Signals-And-Slots/</id>
+    <published>2019-08-31T11:43:22.000Z</published>
+    <updated>2019-08-31T11:46:09.894Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;QT提供了一种信号与槽的机制实现QObject对象间的消息传递。&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>QT开发笔记：国际化</title>
