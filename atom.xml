@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-31T11:46:09.894Z</updated>
+  <updated>2019-08-31T12:39:28.596Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>QT开发笔记：布局管理器</title>
+    <link href="http://yoursite.com/2019/08/31/QT-Layout-Managers/"/>
+    <id>http://yoursite.com/2019/08/31/QT-Layout-Managers/</id>
+    <published>2019-08-31T12:24:40.000Z</published>
+    <updated>2019-08-31T12:39:28.596Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;QT提供了一些布局管理器来管理在QWidget中的子控件的布局，以使其能够动态适应不同的尺寸。&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>QT开发笔记：信号与槽</title>

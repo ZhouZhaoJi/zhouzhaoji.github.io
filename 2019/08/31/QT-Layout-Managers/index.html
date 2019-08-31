@@ -101,7 +101,7 @@
     <script defer type="text/javascript" src="/js/index.js"></script>
     
     <script defer type="text/javascript" src="/js/custom.js"></script>
-    <title>QT开发笔记：信号与槽 | ZhouZhaoJi - The journey is the reward</title>
+    <title>QT开发笔记：布局管理器 | ZhouZhaoJi - The journey is the reward</title>
   </head>
   <body itemscope itemtype="http://schema.org/WebPage" lang="en"  data-spy="scroll" data-target=".list-group">
     
@@ -144,7 +144,7 @@
   
   <article class="post-container card animate" itemscope itemtype="http://schema.org/Article">
     <div class="post-block">
-      <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/08/31/QT-Signals-And-Slots/">
+      <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/08/31/QT-Layout-Managers/">
       <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
        <meta itemprop="name" content="ZhouZhaoJi">
        <meta itemprop="description" content="The journey is the reward">
@@ -156,12 +156,12 @@
     </div>
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">
-       <span class="">QT开发笔记：信号与槽</span>
+       <span class="">QT开发笔记：布局管理器</span>
       </h1>
       <div class="post-meta">
         
         <span class="post-date">
-          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-08-31T19:43:22+08:00">2019-08-31 19:43:22</time></span>
+          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-08-31T20:24:40+08:00">2019-08-31 20:24:40</time></span>
         </span>
         
         
@@ -177,10 +177,9 @@
       </div>
     </header>
     <main class="post-body" itemprop="articleBody">
-      <p><strong>QT提供了一种信号与槽的机制实现QObject对象间的消息传递。</strong></p>
+      <p><strong>QT提供了一些布局管理器来管理在QWidget中的子控件的布局，以使其能够动态适应不同的尺寸。</strong></p>
 <a id="more"></a>
-<p><strong>如果我们自定义一个类希望它支持信号与槽，我们需要让这个类继承QObject，并且在类体声明的最前面，加入<code>Q_OBJECT</code>。然后我们就可以在这个类中声明该类对象拥有的信号，声明并定义该类对象拥有的槽。</strong></p>
-<p><strong>我们可以用QObject::connect()静态函数链接一个QObject对象的信号和另一个QObject对象的槽。当一个QObject对象emit一个信号的时候，连接到这个信号上的QObject对象的槽将被调用。</strong></p>
+<p><strong>当给一个布局管理器对象设置父对象的时候，这个布局管理器将被设置为这个父对象的布局管理器。</strong></p>
 
     </main>
     <footer class="post-footer">
@@ -193,12 +192,10 @@
   <div class="post-nav">
     <div class="post-nav-next post-nav-item">
       
-      <a href="/2019/08/28/QT-Internationalization/" rel="next" title="QT开发笔记：国际化"><i class="fas fa-angle-left"></i><span class="nav-title">QT开发笔记：国际化</span></a>
+      <a href="/2019/08/31/QT-Signals-And-Slots/" rel="next" title="QT开发笔记：信号与槽"><i class="fas fa-angle-left"></i><span class="nav-title">QT开发笔记：信号与槽</span></a>
       
     </div>
     <div class="post-nav-prev post-nav-item">
-      
-      <a href="/2019/08/31/QT-Layout-Managers/" rel="prev" title="QT开发笔记：布局管理器"><span class="nav-title">QT开发笔记：布局管理器</span><i class="fas fa-angle-right"></i></a>
       
     </div>
   </div>

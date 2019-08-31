@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>QT开发笔记：布局管理器</title>
+      <link href="/2019/08/31/QT-Layout-Managers/"/>
+      <url>/2019/08/31/QT-Layout-Managers/</url>
+      <content type="html"><![CDATA[<p><strong>QT提供了一些布局管理器来管理在QWidget中的子控件的布局，以使其能够动态适应不同的尺寸。</strong></p><a id="more"></a><p><strong>当给一个布局管理器对象设置父对象的时候，这个布局管理器将被设置为这个父对象的布局管理器。</strong></p>]]></content>
+      
+      <categories>
+          
+          <category> QT </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>QT开发笔记：信号与槽</title>
       <link href="/2019/08/31/QT-Signals-And-Slots/"/>
       <url>/2019/08/31/QT-Signals-And-Slots/</url>
