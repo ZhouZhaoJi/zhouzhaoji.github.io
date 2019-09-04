@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-31T12:39:28.596Z</updated>
+  <updated>2019-09-04T12:39:07.190Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,55 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>QT开发笔记：布局管理器</title>
-    <link href="http://yoursite.com/2019/08/31/QT-Layout-Managers/"/>
-    <id>http://yoursite.com/2019/08/31/QT-Layout-Managers/</id>
-    <published>2019-08-31T12:24:40.000Z</published>
-    <updated>2019-08-31T12:39:28.596Z</updated>
+    <title>什么是科学</title>
+    <link href="http://yoursite.com/2019/09/04/What-Is-Science/"/>
+    <id>http://yoursite.com/2019/09/04/What-Is-Science/</id>
+    <published>2019-09-04T12:36:34.000Z</published>
+    <updated>2019-09-04T12:39:07.190Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;QT提供了一些布局管理器来管理在QWidget中的子控件的布局，以使其能够动态适应不同的尺寸。&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;通常我们界定一个概念，需要借助一个外延更广的概念。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们定义科学就需要用认识这样一个更为广泛的概念。什么是认识呢？所谓的认识，就是人类通过实践和思维对单个事物属性和事物之间联系的理解和判断。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;什么的认识是科学呢？判断认识是否是科学可以采用以下四把尺子来衡量：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可证伪性&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不影响结果的假设和简化&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;逻辑一致性&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;经验一致性&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
-      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>QT开发笔记：信号与槽</title>
-    <link href="http://yoursite.com/2019/08/31/QT-Signals-And-Slots/"/>
-    <id>http://yoursite.com/2019/08/31/QT-Signals-And-Slots/</id>
-    <published>2019-08-31T11:43:22.000Z</published>
-    <updated>2019-08-31T11:46:09.894Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;QT提供了一种信号与槽的机制实现QObject对象间的消息传递。&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>QT开发笔记：国际化</title>
-    <link href="http://yoursite.com/2019/08/28/QT-Internationalization/"/>
-    <id>http://yoursite.com/2019/08/28/QT-Internationalization/</id>
-    <published>2019-08-28T14:53:14.000Z</published>
-    <updated>2019-08-31T11:09:22.011Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;QT提供了一个方式，可以将程序中用QObject::tr()函数包裹的英文字符串翻译成其他语言，从而实现程序的国际化。&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="QT" scheme="http://yoursite.com/categories/QT/"/>
+      <category term="Science" scheme="http://yoursite.com/categories/Science/"/>
     
     
   </entry>

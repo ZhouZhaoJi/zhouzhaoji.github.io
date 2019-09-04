@@ -47,7 +47,7 @@
     
     
 <link rel="stylesheet" type="text/css" href="/css/page.css">
-<link rel="stylesheet" type="text/css" href="/css/post.css">
+<link rel="stylesheet" type="text/css" href="/css/category.css">
 
     <link rel="stylesheet" type="text/css" href="/css/custom.css">
     <link rel="stylesheet" type="text/css" href="/css/atom-one-dark.css">
@@ -101,7 +101,7 @@
     <script defer type="text/javascript" src="/js/index.js"></script>
     
     <script defer type="text/javascript" src="/js/custom.js"></script>
-    <title>QT开发笔记：国际化 | ZhouZhaoJi - The journey is the reward</title>
+    <title>Category: Science | ZhouZhaoJi - The journey is the reward</title>
   </head>
   <body itemscope itemtype="http://schema.org/WebPage" lang="en"  data-spy="scroll" data-target=".list-group">
     
@@ -140,75 +140,24 @@
         <div class="main-container">
           <div class="content">
             
-<section id="post" class="post">
-  
-  <article class="post-container card animate" itemscope itemtype="http://schema.org/Article">
-    <div class="post-block">
-      <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/08/28/QT-Internationalization/">
-      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-       <meta itemprop="name" content="ZhouZhaoJi">
-       <meta itemprop="description" content="The journey is the reward">
-       <meta itemprop="image" content="/images/avatar.jpg">
-      </span>
-      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-       <meta itemprop="name" content="ZhouZhaoJi">
-      </span>
+<section id="category" class="category">
+  <div class="category-container">
+    <div class="category-title">
+      <h1>Science</h1>
     </div>
-    <header class="post-header">
+    
+    <article class="category-post card animate" itemscope itemtype="http://schema.org/Article">
       <h1 class="post-title" itemprop="name headline">
-       <span class="">QT开发笔记：国际化</span>
+        <a class="post-title-link post-title-link-external" href="/2019/09/04/What-Is-Science/" itemprop="url">什么是科学</a>
       </h1>
-      <div class="post-meta">
-        
-        <span class="post-date">
-          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-08-28T22:53:14+08:00">2019-08-28 22:53:14</time></span>
-        </span>
-        
-        
-        
-        <span class="post-meta-divider divider">|</span>
-        
-        <span class="post-categories">
-          
-          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/QT/" itemprop="url" rel="index"><span itemprop="name">QT</span></a></span>
-        </span>
-        
-        
-      </div>
-    </header>
-    <main class="post-body" itemprop="articleBody">
-      <p><strong>QT提供了一个方式，可以将程序中用QObject::tr()函数包裹的英文字符串翻译成其他语言，从而实现程序的国际化。</strong></p>
-<a id="more"></a>
-<h1 id="如何实现中国化"><a href="#如何实现中国化" class="headerlink" title="如何实现中国化"></a>如何实现中国化</h1><p><strong>将你想要翻译成其他语言的英文字符串用QObject::tr()括住。</strong></p>
-<p><strong>在项目的.pro文件加入：</strong><br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">TRANSLATIONS += zh.ts</span><br></pre></td></tr></table></figure></p>
-<p><strong>在QT Creator的菜单栏中，选择工具-&gt;外部-&gt;QT预言家-&gt;更新翻译，就会在该项目的文件夹下生成一个<code>zh.ts</code>文件。这个文件是用来给你用linguist这个程序编辑英文字符串到某种语言的映射关系的。所以打开linguist程序，用这个程序中打开<code>zh.ts</code>文件。它会列出类（上下文），以及这个类中用QObject::tr()括住的英文字符串。编辑这些英文字符串跟中文的映射关系。保存。</strong></p>
-<p><strong><code>zh.ts</code>文件是用来编辑的，不能直接使用，你只能使用这个文件通过发布生成的<code>zh.qm</code>文件。在QT Creator的菜单栏中，选择工具-&gt;外部-&gt;QT预言家-&gt;发布翻译，就会在项目文件夹下生成<code>zh.qm</code>文件。将这个文件放到项目的资源文件中。</strong></p>
-<p><strong>现在你就可以在程序中，使用这个文件实现中国化了。New一个QTranslator对象，并调用其load方法加载<code>zh.qm</code>文件，接着调用QCoreApplication::installTranslator这个静态方法，将刚刚New出来的QTranslator对象指针传进去。</strong><br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">QTranslator *translator = <span class="keyword">new</span> QTranslator();</span><br><span class="line"><span class="keyword">if</span>(!translator-&gt;load(<span class="string">"zh.qm的路径"</span>))&#123;</span><br><span class="line">	qDebug()&lt;&lt;<span class="string">"Loading translation file fails!"</span>;</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">	<span class="keyword">if</span>(!QCoreApplication::installTranslator(translator))&#123;</span><br><span class="line">		qDebug()&lt;&lt;<span class="string">"Installing translator fails!"</span>;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
-<p><strong>installTranslator这个方法会将这个对象指针放到一个list的最后，你可以安装多个。当遇到一个要显示一个QObject::tr()括住的字符串的时候，会按照安装相反的顺序在这个list中指针指向的对象中搜索这个字符串的映射，如果找到则停止搜索，并将映射的文字显示出来。假如没有找到则不翻译。</strong></p>
-<p><strong>你还可以用下面的函数删除list中的指针：</strong><br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span>(!QCoreApplication::removeTranslator(translator))&#123;</span><br><span class="line">	qDebug()&lt;&lt;<span class="string">"Removing translator fails!"</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
-<p><strong>注意这个函数仅仅从list中移除了translator指针，并没有析构它，所以你可能还需要delete它。</strong></p>
-
-    </main>
-    <footer class="post-footer">
       
+      <span class="post-date">
+        <time title="post-date" itemprop="dateCreated datePublished" datetime="2019-09-04T20:36:34+08:00">09-04</time>
+      </span>
       
-    </footer>
-  </article>
-  
-  
-  <div class="post-nav">
-    <div class="post-nav-next post-nav-item">
-      
-      <a href="/2019/08/28/Set-Theory/" rel="next" title="集合论"><i class="fas fa-angle-left"></i><span class="nav-title">集合论</span></a>
-      
-    </div>
-    <div class="post-nav-prev post-nav-item">
-      
-      <a href="/2019/08/31/QT-Signals-And-Slots/" rel="prev" title="QT开发笔记：信号与槽"><span class="nav-title">QT开发笔记：信号与槽</span><i class="fas fa-angle-right"></i></a>
-      
-    </div>
+    </article>
+    
   </div>
-  
   
 </section>
 
@@ -236,7 +185,7 @@
     
     <div class="archives-count">
       <div class="site-count-title">Archives</div>
-      <div><a href="/archives/">4</a></div>
+      <div><a href="/archives/">2</a></div>
     </div>
     
     
@@ -259,20 +208,6 @@
 
 
   <div class="sidebar-sticky">
-    
-    
-
-
-
-
-<hr>
-<div class="post-toc sidebar-item" id="toc-div">
-  <div><i class="fas fa-list-ol"></i>Table of Contents</div>
-  <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#如何实现中国化"><span class="toc-text">如何实现中国化</span></a></li></ol></div>
-</div>
-
-
-
     
     
     
