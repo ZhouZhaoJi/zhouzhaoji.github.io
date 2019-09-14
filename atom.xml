@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-04T12:39:07.190Z</updated>
+  <updated>2019-09-14T11:09:25.067Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,27 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>什么是科学</title>
-    <link href="http://yoursite.com/2019/09/04/What-Is-Science/"/>
-    <id>http://yoursite.com/2019/09/04/What-Is-Science/</id>
-    <published>2019-09-04T12:36:34.000Z</published>
-    <updated>2019-09-04T12:39:07.190Z</updated>
+    <title>信息</title>
+    <link href="http://yoursite.com/2019/09/14/Informations/"/>
+    <id>http://yoursite.com/2019/09/14/Informations/</id>
+    <published>2019-09-14T11:08:06.000Z</published>
+    <updated>2019-09-14T11:09:25.067Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;通常我们界定一个概念，需要借助一个外延更广的概念。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们定义科学就需要用认识这样一个更为广泛的概念。什么是认识呢？所谓的认识，就是人类通过实践和思维对单个事物属性和事物之间联系的理解和判断。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;什么的认识是科学呢？判断认识是否是科学可以采用以下四把尺子来衡量：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;可证伪性&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;不影响结果的假设和简化&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;逻辑一致性&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;经验一致性&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;人类参与和研究的领域可以分布在一个维度当中，在这个维度越左边，不确定性就越高，而越右边，确定性越高。&lt;/li&gt;
+&lt;li&gt;所谓的资源不够，是说按照常规的资源使用方法，我现在手头的资源不够。&lt;/li&gt;
+&lt;li&gt;我选择伴侣最重要的标准是：她是一个可以讲道理的人。&lt;/l
+        
+      
     
     </summary>
     
-      <category term="Science" scheme="http://yoursite.com/categories/Science/"/>
+      <category term="Information" scheme="http://yoursite.com/categories/Information/"/>
     
     
   </entry>
