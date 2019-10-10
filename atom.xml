@@ -1,92 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ZhouZhaoJi</title>
+  <title>周兆基</title>
   
-  <subtitle>The journey is the reward</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-30T01:44:31.589Z</updated>
+  <updated>2019-10-10T13:32:56.051Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>ZhouZhaoJi</name>
+    <name>周兆基</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>书籍</title>
-    <link href="http://yoursite.com/2019/09/25/Books/"/>
-    <id>http://yoursite.com/2019/09/25/Books/</id>
-    <published>2019-09-25T12:03:43.000Z</published>
-    <updated>2019-09-30T01:44:31.589Z</updated>
+    <title>数学对象是其所做</title>
+    <link href="http://yoursite.com/2019/10/10/What-Is-Math-Object/"/>
+    <id>http://yoursite.com/2019/10/10/What-Is-Math-Object/</id>
+    <published>2019-10-10T13:30:32.000Z</published>
+    <updated>2019-10-10T13:32:56.051Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;数学&quot;&gt;&lt;a href=&quot;#数学&quot; class=&quot;headerlink&quot; title=&quot;数学&quot;&gt;&lt;/a&gt;数学&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ZhouZhaoJi/Book/raw/master/Math/%E9%99%B6%E5%93%B2%E8%BD%A9%E5%AE%9E%E5%88%86%E6%9E%90.pdf&quot; download=&quot;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;陶哲轩实分析&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;计算机&quot;&gt;&lt;a href=&quot;#计算机&quot; class=&quot;headerlink&quot; title=&quot;计算机&quot;&gt;&lt;/a&gt;计算机&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ZhouZhaoJi/Book/raw/master/Programming/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80.pdf&quot; download=&quot;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;汇编语言&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ZhouZhaoJi/Book/raw/master/Programming/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A(%E4%BF%AE%E8%AE%A2%E7%89%88).pdf&quot; download=&quot;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;正则表达式必知必会(修订版)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ZhouZhaoJi/Books/raw/master/Programming/Vim%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7.pdf&quot; download=&quot;&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Vim实用技巧&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Books" scheme="http://yoursite.com/categories/Books/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>信息</title>
-    <link href="http://yoursite.com/2019/09/14/Informations/"/>
-    <id>http://yoursite.com/2019/09/14/Informations/</id>
-    <published>2019-09-14T11:08:06.000Z</published>
-    <updated>2019-09-30T02:32:40.334Z</updated>
-    
-    <summary type="html">
-    
-      &lt;ol&gt;
-&lt;li&gt;人类参与和研究的领域可以分布在一个维度当中，在这个维度越左边，不确定性就越高，而越右边，确定性越高。&lt;/li&gt;
-&lt;li&gt;所谓的资源不够，是说按照常规的资源使用方法，我现在手头的资源不够。&lt;/li&gt;
-&lt;li&gt;我选择伴侣最重要的标准是：她是一个可以讲道理的人。&lt;/li&gt;
-&lt;li&gt;人生最重要的是意义。&lt;/li&gt;
-&lt;li&gt;如果我们的脑子并没有对某件事物的编码，那么我们的脑子就倾向于不去想这件事物。&lt;/li&gt;
-&lt;/ol&gt;
-    
-    </summary>
-    
-      <category term="Information" scheme="http://yoursite.com/categories/Information/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>集合论</title>
-    <link href="http://yoursite.com/2019/08/28/Set-Theory/"/>
-    <id>http://yoursite.com/2019/08/28/Set-Theory/</id>
-    <published>2019-08-28T14:49:19.000Z</published>
-    <updated>2019-09-01T08:52:07.997Z</updated>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;$\forall A \forall x(x \in A \veebar x \not\in A)$&lt;/li&gt;
-&lt;li&gt;$\forall A \forall B(A=B \iff \forall x(x \in A \iff x \in B))$&lt;/li&gt;
-&lt;li&gt;$\exists ! A \forall x  (x \not\in A),A=\emptyset$&lt;/li&gt;
-&lt;li&gt;$\forall x \exists ! A  (x \in A \wedge  |A| = 1),A=\lbrace x\rbrace $&lt;/li&gt;
-&lt;li&gt;$\forall A \forall B \exists ! C \forall x(x \in C \iff x \in A \vee x \in B),C=A \cup B$&lt;/li&gt;
-&lt;li&gt;$\forall A \forall B(A \subseteq B \iff \forall x(x \in A \implies x \in B))$&lt;/li&gt;
-&lt;li&gt;$\forall A \forall B(A \subset B \iff A \subseteq B \wedge  A \not= B)$&lt;/li&gt;
-&lt;li&gt;$\forall A \exists ! B\forall x (x \in B \iff x \in A \wedge P(x)),B=\lbrace x \in A :P(x)\rbrace $&lt;/li&gt;
-&lt;li&gt;$\lbrace x \in A : x \in B \rbrace = A \cap B$&lt;/li&gt;
-&lt;li&gt;$\lbrace x\in A : x \not\in B \rbrace = A \setminus B$&lt;/li&gt;
-&lt;li&gt;$\forall A \exists ! B (\forall x \in A \; \exists ! y \in B \; y = f(x) \wedge \forall y \in B \; \exists x \in A \; y = f(x)),B= \lbrace f(x) : x \in A \rbrace$&lt;/li&gt;
-&lt;/ul&gt;
+      &lt;p&gt;数学要想学到高深，必须持有一个态度，就是：&lt;strong&gt;数学对象是其所做。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要想理解这个态度，我们可以先来讨论一个问题：&lt;strong&gt;象棋中的将军是什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你可能觉得是那个用木头做的，上面刻着“将军”二字的棋子。但是我可以把它换成任何其他的物件（比如石头），只要遵循将军在象棋中的一切规则，我同样可以抓象棋。那将军到底是什么呢？很难回答。最令人满意的处理方式是，回避这个问题。我们除了指着棋盘，说出将军在象棋中的规则，别无他法。所以我们说：&lt;strong&gt;将军是其所做，也就是它在象棋中的规则。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数学对象也是同样的道理。自然数是什么？很难回答。最令人满意的处理方式是，回避这个问题。我们处理指着它，说出它的规则（比如增长），别无他法。&lt;/p&gt;
     
     </summary>
     
