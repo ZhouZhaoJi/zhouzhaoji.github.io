@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-10T13:32:56.051Z</updated>
+  <updated>2019-10-10T14:01:39.626Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/10/10/What-Is-Math-Object/"/>
     <id>http://yoursite.com/2019/10/10/What-Is-Math-Object/</id>
     <published>2019-10-10T13:30:32.000Z</published>
-    <updated>2019-10-10T13:32:56.051Z</updated>
+    <updated>2019-10-10T14:01:39.626Z</updated>
     
     <summary type="html">
     
@@ -29,6 +29,10 @@
 &lt;p&gt;要想理解这个态度，我们可以先来讨论一个问题：&lt;strong&gt;象棋中的将军是什么？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;你可能觉得是那个用木头做的，上面刻着“将军”二字的棋子。但是我可以把它换成任何其他的物件（比如石头），只要遵循将军在象棋中的一切规则，我同样可以抓象棋。那将军到底是什么呢？很难回答。最令人满意的处理方式是，回避这个问题。我们除了指着棋盘，说出将军在象棋中的规则，别无他法。所以我们说：&lt;strong&gt;将军是其所做，也就是它在象棋中的规则。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;数学对象也是同样的道理。自然数是什么？很难回答。最令人满意的处理方式是，回避这个问题。我们处理指着它，说出它的规则（比如增长），别无他法。&lt;/p&gt;
+&lt;h1 id=&quot;参考文献&quot;&gt;&lt;a href=&quot;#参考文献&quot; class=&quot;headerlink&quot; title=&quot;参考文献&quot;&gt;&lt;/a&gt;参考文献&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;《牛津通识读本：数学》 抽象的方法 和 没有棋子的象棋&lt;/li&gt;
+&lt;li&gt;《陶哲轩实分析》 2.1.14 和 2.1.15&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
